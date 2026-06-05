@@ -11,7 +11,7 @@
 ## 工作桌 + 三個家
 - 📋 GDrive 工作桌：`G:\我的雲端硬碟\cloude_test_project\`（自動跨電腦同步）
 - 🐙 GitHub repo：`airwaycib-art/cloude_test_project`（公開，網頁的家）
-- 📘 Obsidian 駕駛艙：`secondbrain/cloude_test_project/工作筆記.md`（想法的家）
+- 📘 Obsidian 駕駛艙：`G:\我的雲端硬碟\secondbrain\cloude_test_project\工作筆記.md`（想法的家）
 - 🔥 Firebase 專案：`claudeproject-a94ee`（資料的家）
 
 ## 工具清單
